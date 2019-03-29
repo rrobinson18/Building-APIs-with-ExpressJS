@@ -1,0 +1,10 @@
+body {
+    background-color: blueviolet;
+    color: white;
+}
+
+#modal {
+    position: fixed;
+    top: 75px;
+    left: 75px;
+}
