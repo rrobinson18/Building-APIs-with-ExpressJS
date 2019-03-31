@@ -3,7 +3,7 @@ body {
     color: white;
 }
 
-#modal {
+.modal {
     position: fixed;
     top: 75px;
     left: 75px;
@@ -11,4 +11,12 @@ body {
 
 ul li {
     list-style-type: none;
+}
+
+.modal-title {
+    color: black;
+}
+
+.modal-body {
+    color: black;
 }
