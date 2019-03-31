@@ -8,3 +8,7 @@ body {
     top: 75px;
     left: 75px;
 }
+
+ul li {
+    list-style-type: none;
+}
